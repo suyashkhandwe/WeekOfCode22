@@ -7,8 +7,8 @@
     <ProjectGuid>{B9635985-2826-4C94-835E-DADE075371EF}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>HackerRank.WeekOfCode22.Day01.CookieParty</RootNamespace>
-    <AssemblyName>HackerRank.WeekOfCode22.Day01.CookieParty</AssemblyName>
+    <RootNamespace>HR.WOC22.Day01.CookieParty</RootNamespace>
+    <AssemblyName>HR.WOC22.Day01.CookieParty</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

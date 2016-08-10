@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank.WeekOfCode22.Day01.CookieParty", "HackerRank.WeekOfCode22.Day01.CookieParty\HackerRank.WeekOfCode22.Day01.CookieParty.csproj", "{B9635985-2826-4C94-835E-DADE075371EF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HR.WOC22.Day01.CookieParty", "HR.WOC22.Day01.CookieParty\HR.WOC22.Day01.CookieParty.csproj", "{B9635985-2826-4C94-835E-DADE075371EF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

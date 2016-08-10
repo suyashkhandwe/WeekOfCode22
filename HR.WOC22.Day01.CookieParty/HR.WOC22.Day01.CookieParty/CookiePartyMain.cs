@@ -1,8 +1,6 @@
 ﻿using System;
-using System.IO;
-using System.Runtime.Remoting.Services;
 
-namespace HackerRank.WeekOfCode22.Day01.CookieParty {
+namespace HR.WOC22.Day01.CookieParty {
     internal class CookiePartyMain {
         /// <summary>
         /// Input 'n' : which is the number of guests (n GREATER THAN OR EQUAL TO 1)
